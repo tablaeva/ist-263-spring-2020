@@ -1,0 +1,21 @@
+        ul {
+            width:475px;
+            margin: 0;
+            padding:.5em;
+            list-style-type: none;
+            color: black;
+            font-weight:600;
+            font-family:Arial, Helvetica, sans-serif;
+            font-size: .95em;
+            }
+
+        li {
+            padding: 10px;
+        }
+        .odd {
+            background: #f1f1f1;
+        }
+        
+        .even {
+            background: #e1e1e1;
+        }
