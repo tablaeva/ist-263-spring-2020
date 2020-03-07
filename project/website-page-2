@@ -8,7 +8,7 @@
         <main>
             <!--Here will be the section-->
             <h1>Things to Do</h1>
-            <img src="./website-pictures/" alt="pittsford, new york">
+            <img src="./website-pictures/erie-canal-fall.jpg" alt="pittsford, new york">
 
             <!--Here will be the first div-->
             <p>Take a boat ride on the Colonial Belle</p>
