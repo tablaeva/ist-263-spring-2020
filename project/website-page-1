@@ -11,7 +11,7 @@
 
         <!--first div-->
         <h1>Explore Pittsford, New York</h1>
-        <img src=".//town-hall.jpg" alt="pittsford town hall">
+        <img src="./website-pictures/town-hall.jpg" alt="pittsford town hall">
         <p>Established in the 1800s, Pittsford is a charming town on the Erie Canal. Whether it's a boat ride on the iconic Sam Patch or a bite to eat at the delicious Hungry's Grill, Pittsford has something to offer for everyone.</p>
         <!--close first div-->  
 
@@ -22,7 +22,7 @@
 
         <!--third div-->
         <h2>About the Creator</h2>
-        <img src=".//tanya-ablaeva.jpg" alt="tanya ablaeva">
+        <img src="./website-pictures/tanya-ablaeva.jpg" alt="tanya ablaeva">
         <p>Tanya Ablaeva has been a Pittsford Resident her entire life. Now, she is studying at the Syracuse University Whitman School of Management, pursuing a degree in Marketing and Supply Chain. Besides business, Tanya is passionate about technology, and has created this website to refine her coding skills and share her love for Pittsford. "I especially love the nature that surrounds this town. Mendon Ponds Park is absolutely breathtaking during the winter months."</p>
         <ul>Tanya's Favorite Spots</ul>
             <li>Mendon Ponds Park</li>
