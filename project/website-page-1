@@ -30,10 +30,12 @@
         <h2>About the Creator</h2>
         <img src="./website-pictures/tanya-ablaeva.jpg" alt="tanya ablaeva">
         <p>Tanya Ablaeva has been a Pittsford Resident her entire life. Now, she is studying at the Syracuse University Whitman School of Management, pursuing a degree in Marketing and Supply Chain. Besides business, Tanya is passionate about technology, and has created this website to refine her coding skills and share her love for Pittsford. "I especially love the nature that surrounds this town. Mendon Ponds Park is absolutely breathtaking during the winter months."</p>
-        <ul>Tanya's Favorite Spots</ul>
+        <ul>
+            <li>Tanya's Favorite Spots</li>
             <li>Mendon Ponds Park</li>
             <li>Pittsford Farms Dairy</li>
             <li>Walking along the Erie Canal</li>
+        </ul>
         <!--close third div-->
 
         <!--section close-->
