@@ -7,12 +7,18 @@
     <body>
         <!--Here will be the section-->
 
-        <header><img src="./website-pictures/schoen-place-overview.jpg" alt="schoen place in the evening"></header>
+        <header>
+            <img src="./website-pictures/schoen-place-overview.jpg" alt="schoen place in the evening">
+            <p> This website will serve to show you the true charm of this town with New England roots. 
+            Be a part of a dynamic community with an outstanding quality of life. See the beautiful scenery, 
+             learn about the rich history, and experience a strong sence of commnity.
+        </header>
 
         <!--first div-->
         <h1>Explore Pittsford, New York</h1>
         <img src="./website-pictures/town-hall.jpg" alt="pittsford town hall">
-        <p>Established in the 1800s, Pittsford is a charming town on the Erie Canal. Whether it's a boat ride on the iconic Sam Patch or a bite to eat at the delicious Hungry's Grill, Pittsford has something to offer for everyone.</p>
+        <p>Established in the 1800s, Pittsford is a small town on the Erie Canal. Whether it's a boat ride on the iconic Colonial Belle
+        or a bite to eat at the delicious Hungry's Grill, Pittsford has something to offer for everyone.</p>
         <!--close first div-->  
 
         <!--second div-->
