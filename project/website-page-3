@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>Places to Eat</title>
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <main>
+        <!--Here will be the section-->
+        <h1>Places to Eat</h1>
+        <img src="./" alt="pittsford, new york">
+            
+            <!--Here will be the first div-->
+            <p>Hungry's Grill</p>
+            <img src="./hungrys-order-counter.jpg" alt="hungry's grill">
+            <img src="./garbage-plate.jpg" alt="garbage-plate">
+            <p>In the mood for a Garbage Plate? Don't know what that is? Since you are in Rochester, you must try one of these iconic town dishes. Comprised of macaroni salad, baked beans, home fries, hamburger meat, among other ingredients, it is one of the most unhealthy and at the same time delicious meals in the area.</p>
+            <!--close div-->  
+
+            <!--Here will be the second div-->
+            <p>Pittsford Farms Dairy</p>
+            <img src="./pittsford-dairy.jpg" alt="pittsford farms dairy">
+            <p>In the mood for some icecream? Pittsford Farms Dairy started as a small milk stand in the village, proving fresh, organic milk to the local village residents. A few years back, the family opened a larger location which now serves some of the best icecream in town. If you get a chance, try out their chocolate milk!</p>
+            <!--close div-->  
+
+            <!--Here will be the third div-->
+            <p>Richardson's Canalhouse</p>
+            <img src="./richardsons-canalhouse.jpg" alt="richardson's canalhouse">
+            <img src="./richardsons-building.jpg" alt="richardson's canalhouse">
+            <p>This casual-gourmet Austrian restaurant is perfect for a special occasion. Established in the early 1800s, the building was first used as a brothel and an inn for the people on the ships coming into Bushnell's Basin. The best time to go to Richardson's is in the summertime, when the outdoor patio and grill area are open. Reserve a table and come a few minutes early to enjoy a signature drink near one of the firepits outside.</p>
+            <!--close div-->  
+
+            <!--Here will be the fourth div-->
+            <p>Pontillo's Pizzaria</p>
+            <img src="./pontillos.jpg" alt="pontillo's pizzaria">
+            <p>Known by the locals as Tillo's, this tiny pizza shop in Bushnell's Basin (across the road from Richardson's) has the best slice in town. Order a Bobby (cheese), a Roni (pepperoni) pizza, or a locals' favorite - buffalo chicken and enjoy it at one of the picnic tables outside or on the go. </p>
+            <!--close div-->  
+
+            <!--Here will be the fifth div-->
+            <p>Lock 32 Bar</p>
+            <img src="./lock-32-bar.jpg" alt="lock 32 bar">
+            <img src="./lock-32-bar-inside.jpg" alt="lock 32 bar">
+            <p>Find yourself parched walking along the Erie Canal? Stop by Lock 32, a brand new bar overlooking the water. This spot has a great atmosphere in both the winter and summer months. The windows swing fully open which makes the bar perfect for people watching.</p>
+            <!--close div-->  
+            
+            <!--section close-->
+        </main>
+
+        <ul>Honorable Mentions</ul>
+            <li>Tom Wahls - American Diner</li>
+            <li>Alladin's - Greek Cousine Restaurant on the Water</li>
+            <li>Village Bakery - Best place in town for brunch or just coffee</li>
+            <li>Seven Story Brewing - On tap beer overlooking the Erie Canal</li>
+        
+    </body>
+</html>
