@@ -35,7 +35,8 @@
             <img src="./website-pictures/summer-concerts.jpg" alt="summer concert on the erie canal">
             <img src="./website-pictures/summer-concerts-2.jpg" alt="summer concert on the erie canal">
             <p>Every Friday afternoon in the summer months, bands come together to play on the Erie Canal. Hear the tunes echo along the water, and enjoy the warm atmosphere.</p>
-            <!--close div-->  
+            <!--close div-->
+            <!--insert calendar of upcoming events here-->
 
             <!--section close-->
         </main>
