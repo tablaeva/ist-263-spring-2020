@@ -7,7 +7,7 @@
     <body>
         <!--Here will be the section-->
 
-        <header><img src="./schoen-place-overview.jpg" alt="schoen place in the evening"></header>
+        <header><img src="..//schoen-place-overview.jpg" alt="schoen place in the evening"></header>
 
         <!--first div-->
         <h1>Explore Pittsford, New York</h1>
