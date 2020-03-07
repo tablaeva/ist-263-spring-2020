@@ -8,11 +8,11 @@
         <main>
             <!--Here will be the section-->
             <h1>Things to Do</h1>
-            <img src="./" alt="pittsford, new york">
+            <img src="./website-pictures/" alt="pittsford, new york">
 
             <!--Here will be the first div-->
             <p>Take a boat ride on the Colonial Belle</p>
-            <img src="./colonial-belle-boat.jpg" alt="colonial belle boat">
+            <img src="./website-pictures/colonial-belle-boat.jpg" alt="colonial belle boat">
             <p>Sam Patch takes you on a guided tour of one of the most famous canals in the United States. The two hour scenic tour can be used to get from Pittsord to other towns or relax in the Upstate NY sunshine. If you are lucky, you will see the Pittsford Crew Rowing Team practicing their strokes next to the boat. After the tour, make sure to feed the ducks along the canal with some duck food that you can purchase for $1 in the local stores.</p>
             <!--insert video here-->
             <a href="https://www.youtube.com/watch?v=s8JXGyVmQs4/" target="_blank">Watch Pittsford Crew on the water here</a>
@@ -20,20 +20,20 @@
 
             <!--Here will be the second div-->
             <p>Float down the rapids at Lock 32</p>
-            <img src="./white-water-rafting.jpg" alt="white water rafting at lock 32">
+            <img src="./website-pictures/white-water-rafting.jpg" alt="white water rafting at lock 32">
             <p>Looking for something more high adrenaline? Check out the white water rafting course located right above Lock 32. Open during the summer months, the skilled employees will equipt you with all of the gear and teach you the basics. Great activity for hot weather!</p>
             <!--close div-->  
 
             <!--Here will be the third div-->
             <p>Stroll through Powder Mills Park</p>
-            <img src="./powder-mills-park.jpg" alt="powder mills park fish hatchery">
+            <img src="./website-pictures/powder-mills-park.jpg" alt="powder mills park fish hatchery">
             <p>Take in this historic nature park in the middle of town. After hiking the trails, stop by the Fish Hatchery to feed some huge carp that the park breeds for the local rivers. Watch as they jump out of the water fighting for the food pellets.</p>
             <!--close div-->  
 
             <!--Here will be the fourth div-->
             <p>Listen to Live Music on Fridays in the Summer</p>
-            <img src="./summer-concerts.jpg" alt="summer concert on the erie canal">
-            <img src="./summer-concerts-2.jpg" alt="summer concert on the erie canal">
+            <img src="./website-pictures/summer-concerts.jpg" alt="summer concert on the erie canal">
+            <img src="./website-pictures/summer-concerts-2.jpg" alt="summer concert on the erie canal">
             <p>Every Friday afternoon in the summer months, bands come together to play on the Erie Canal. Hear the tunes echo along the water, and enjoy the warm atmosphere.</p>
             <!--close div-->  
 
