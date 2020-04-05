@@ -1,56 +1,147 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <title>Places to Eat</title>
-        <link rel="stylesheet" href="">
-    </head>
-    <body>
-        <main>
-        <!--Here will be the section-->
-        <h1>Places to Eat</h1>
-        <img src="./website-pictures/village-bakery.jpg" alt="village bakery">
-            
-            <!--Here will be the first div-->
-            <p>Hungry's Grill</p>
-            <img src="./website-pictures/hungrys-order-counter.jpg" alt="hungry's grill">
-            <img src="./garbage-plate.jpg" alt="garbage-plate">
+<head>
+  <title>Places to Eat</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="./css/final-project-css.css">
+</head>
+<body>
+
+<div class="jumbotron text-center" style="margin-bottom:0">
+  <h1>Places to Eat</h1>
+  <p>Where the locals go<p> 
+</div>
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarResponsive">
+    <ul class="navbar-nav ml auto">
+      <li class="nav-item">
+        <a class="nav-link" href="website-page-1.html">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="website-page-2.html">Things To Do</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="website-page-3.html">Places to Eat</a>
+      </li>    
+    </ul>
+  </div>  
+</nav>
+  
+<div id="demo" class="carousel slide" data-ride="carousel">
+    <ul class="carousel-indicators">
+      <li data-target="#demo" data-slide-to="0" class="active"></li>
+      <li data-target="#demo" data-slide-to="1"></li>
+      <li data-target="#demo" data-slide-to="2"></li>
+    </ul>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="./website-pictures/lock-32-bar.jpg" alt="Lock 32 Bar">
+        <div class="carousel-caption">
+          <h3>Lock 32 Bar</h3>
+          <p>Spend some time by the water!</p>
+        </div>   
+      </div>
+      <div class="carousel-item">
+        <img src="./website-pictures/pittsford-dairy.jpg" alt="Pittsford Farms Dairy">
+        <div class="carousel-caption">
+          <h3>Pittsford Farms Dairy</h3>
+          <p>Try their ice cream!</p>
+        </div>   
+      </div>
+      <div class="carousel-item">
+        <img src="./website-pictures/pontillos.jpg" alt="Pontillos Pizzeria">
+        <div class="carousel-caption">
+          <h3>Pontillos Pizzeria</h3>
+          <p>The best slice in Pittsford!</p>
+        </div>   
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#demo" data-slide="prev">
+      <span class="carousel-control-prev-icon"></span>
+    </a>
+    <a class="carousel-control-next" href="#demo" data-slide="next">
+      <span class="carousel-control-next-icon"></span>
+    </a>
+  </div>
+
+<section class="container-fluid padding">
+    <h2>Hungry's Grill</h2>
+    <div class="row padding">
+        <div class="col-md-12 col-lg-6">
             <p>In the mood for a Garbage Plate? Don't know what that is? Since you are in Rochester, you must try one of these iconic town dishes. Comprised of macaroni salad, baked beans, home fries, hamburger meat, among other ingredients, it is one of the most unhealthy and at the same time delicious meals in the area.</p>
-            <!--close div-->  
-
-            <!--Here will be the second div-->
-            <p>Pittsford Farms Dairy</p>
-            <img src="./website-pictures/pittsford-dairy.jpg" alt="pittsford farms dairy">
+        </div>
+        <figure class="col-lg-6">
+            <img id="hungrys" src="./website-pictures/hungrys-order-counter.jpg" alt="hungry's grill">
+        </figure>
+    </div>
+</section>
+<section class="container-fluid padding">
+    <h2>Pittsford Farms Dairy</h2>
+    <div class="row padding">
+        <div class="col-md-12 col-lg-6">
             <p>In the mood for some icecream? Pittsford Farms Dairy started as a small milk stand in the village, proving fresh, organic milk to the local village residents. A few years back, the family opened a larger location which now serves some of the best icecream in town. If you get a chance, try out their chocolate milk!</p>
-            <!--close div-->  
-
-            <!--Here will be the third div-->
-            <p>Richardson's Canalhouse</p>
-            <img src="./website-pictures/richardsons-canalhouse.jpg" alt="richardson's canalhouse">
-            <img src="./website-pictures/richardsons-building.jpg" alt="richardson's canalhouse">
+        </div>
+        <figure class="col-lg-6">
+            <img id="dairy" src="./website-pictures/pittsford-dairy.jpg" alt="pittsford farms dairy">
+        </figure>
+    </div>
+</section>
+<section class="container-fluid padding">
+    <h2>Richardson's Canalhouse</h2>
+    <div class="row padding">
+        <div class="col-md-12 col-lg-6">
             <p>This casual-gourmet Austrian restaurant is perfect for a special occasion. Established in the early 1800s, the building was first used as a brothel and an inn for the people on the ships coming into Bushnell's Basin. The best time to go to Richardson's is in the summertime, when the outdoor patio and grill area are open. Reserve a table and come a few minutes early to enjoy a signature drink near one of the firepits outside.</p>
-            <!--close div-->  
-
-            <!--Here will be the fourth div-->
-            <p>Pontillo's Pizzaria</p>
-            <img src="./website-pictures/pontillos.jpg" alt="pontillo's pizzaria">
-            <p>Known by the locals as Tillo's, this tiny pizza shop in Bushnell's Basin (across the road from Richardson's) has the best slice in town. Order a Bobby (cheese), a Roni (pepperoni) pizza, or a locals' favorite - buffalo chicken and enjoy it at one of the picnic tables outside or on the go. </p>
-            <!--close div-->  
-
-            <!--Here will be the fifth div-->
-            <p>Lock 32 Bar</p>
-            <img src="./website-pictures/lock-32-bar.jpg" alt="lock 32 bar">
-            <img src="./website-pictures/lock-32-bar-inside.jpg" alt="lock 32 bar">
+        </div>
+        <figure class="col-lg-6">
+            <img id="richardsons" src="./website-pictures/richardsons-canalhouse.jpg" alt="richardson's canalhouse">
+        </figure>
+    </div>
+</section>
+<section class="container-fluid padding">
+    <h2>Pontillo's Pizzaria</h2>
+    <div class="row padding">
+        <div class="col-md-12 col-lg-6">
+            <p>Known by the locals as Tillo's, this tiny pizza shop in Bushnell's Basin (across the road from Richardson's) has the best slice in town. Order a Bobby (cheese), a Roni (pepperoni) pizza, or a locals' favorite - buffalo chicken and enjoy it at one of the picnic tables outside or on the go.</p>
+        </div>
+        <figure class="col-lg-6">
+            <img id="pontillos" src="./website-pictures/pontillos.jpg" alt="pontillo's pizzaria">
+        </figure>
+    </div>
+</section>
+<section class="container-fluid padding">
+    <h2>Lock 32 Bar</h2>
+    <div class="row padding">
+        <div class="col-md-12 col-lg-6">
             <p>Find yourself parched walking along the Erie Canal? Stop by Lock 32, a brand new bar overlooking the water. This spot has a great atmosphere in both the winter and summer months. The windows swing fully open which makes the bar perfect for people watching.</p>
-            <!--close div-->  
-            
-            <!--section close-->
-        </main>
-
-        <ul>Honorable Mentions</ul>
+        </div>
+        <figure class="col-lg-6">
+            <img id="lock32" src="./website-pictures/lock-32-bar.jpg" alt="lock 32 bar">
+        </figure>
+    </div>
+</section>
+        <h2>Honorable Mentions</h2>
+        <ul class="mentions"> 
             <li>Tom Wahls - American Diner</li>
             <li>Alladin's - Greek Cousine Restaurant on the Water</li>
             <li>Village Bakery - Best place in town for brunch or just coffee</li>
             <li>Seven Story Brewing - On tap beer overlooking the Erie Canal</li>
-        
+        </ul>
+
+            <div class="jumbotron text-center" style="margin-bottom:0">
+                <h3>Subscribe to Our Newsletter</h3>
+                <form>
+                  <input type="email" placeholder="Enter Email..."/>
+                  <button type="submit" class="button-1">Subscribe</button>
+                </form>
+              </div>
     </body>
 </html>
