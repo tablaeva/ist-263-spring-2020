@@ -1,0 +1,39 @@
+body{
+    background-color: white;
+}
+
+.jumbotron{
+    background-color: darksalmon;
+    color: white;
+}
+
+.row{
+    background-color: white;
+    margin-top: 2em;
+}
+
+#tanya{
+    width: fit-content;
+    height: auto;
+}
+
+#author{
+    background-color: white;
+}
+
+#about-class{
+    background-color: white;
+    margin-top: 2em;
+    margin-bottom: 6em;
+}
+
+footer{
+    background-color: darksalmon;
+    padding-top: 2em;
+    padding-bottom: 1em;
+}
+
+.carousel img{
+    height: auto;
+    width: 50%;
+}
