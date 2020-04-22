@@ -3,32 +3,41 @@ body{
 }
 
 .jumbotron{
-    background-color: darksalmon;
+    background-color: salmon;
     color: white;
 }
 
 .row{
     background-color: white;
-    margin-top: 2em;
+    /*margin-top: 2em;*/
 }
 
-#tanya{
+.tanya{
     width: fit-content;
     height: auto;
+    margin: 1em;
 }
 
 #author{
     background-color: white;
 }
 
+.card-body{
+    margin-bottom: 0;
+}
+
 #about-class{
     background-color: white;
-    margin-top: 2em;
+    /*margin-top: 2em;*/
     margin-bottom: 6em;
 }
 
+#about-card{
+    margin:0;
+}
+
 footer{
-    background-color: darksalmon;
+    background-color: salmon;
     padding-top: 2em;
     padding-bottom: 1em;
 }
@@ -37,3 +46,34 @@ footer{
     height: auto;
     width: 50%;
 }
+
+.button-1{
+    height: 2em;
+    padding: 0 .25em;
+    font-weight: 700;
+    background-color: white;
+    color: salmon;
+    border-radius: 6px
+}
+
+.input-1{
+    height: 2em;
+    border-radius: 6px;
+}
+
+.iframe{
+    flex: auto;
+    width: 100%;
+    height: 275px;
+    margin-bottom: .5em;
+}
+
+.img-fluid{
+    margin-bottom: .5em;
+}
+
+a{
+    font-weight: bold;
+}
+
+
