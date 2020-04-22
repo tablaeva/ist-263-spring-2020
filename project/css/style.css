@@ -1,5 +1,6 @@
 body{
     background-color: white;
+    margin-bottom: 0;
 }
 
 .jumbotron{
@@ -9,7 +10,6 @@ body{
 
 .row{
     background-color: white;
-    /*margin-top: 2em;*/
 }
 
 .tanya{
@@ -28,7 +28,6 @@ body{
 
 #about-class{
     background-color: white;
-    /*margin-top: 2em;*/
     margin-bottom: 6em;
 }
 
@@ -39,7 +38,9 @@ body{
 footer{
     background-color: salmon;
     padding-top: 2em;
+    margin-top: 2em;
     padding-bottom: 1em;
+    border-top:solid darkgray 4px;
 }
 
 .carousel img{
@@ -63,17 +64,15 @@ footer{
 
 .iframe{
     flex: auto;
-    width: 100%;
+    width: 101%;
     height: 275px;
-    margin-bottom: .5em;
+    margin-top: .5em;
 }
 
 .img-fluid{
-    margin-bottom: .5em;
+    margin: .5em;
 }
 
 a{
     font-weight: bold;
 }
-
-
